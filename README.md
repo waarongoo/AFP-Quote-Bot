@@ -17,13 +17,13 @@ Welcome to the Airforcepround 95 Quote Discord Bot! This bot is designed to prov
 3. Type `npm i` to install required dependencies
 4. Make a bot at [Discord Developers]([link/to/your/bot/invitation](https://discord.com/developers/applications)).
 5. Invite the bot to your Server
-6. Run the bot file by running `node  index.js`
+6. Run the bot file by running `node index.js`
 7. You are done! Start using the bot by using the `/quote` command
 ## Commands
-- `/quote`: Get a random inspirational quote from Airforcepround 95.
+- `/quote`: Get a random inspirational quote from AirForceProud95.
 
 ## Configuration
-Use the bot file (index.js), scroll down to the quotes , and edit them to your liking.
+Use the bot file `index.js`, scroll down to the quotes , and edit them to your liking.
 
 ## Examples
 - Get a random quote:
