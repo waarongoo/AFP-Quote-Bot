@@ -1,7 +1,7 @@
 
 # Airforcepround 95 Quotes Discord Bot
 NOTE: This is not the offical AFP95 bot. This bot is fan-made
-
+NOTE 2:The bot was created 
 
 ## Introduction
 Welcome to the Airforcepround 95 Quote Discord Bot! This bot is designed to provide quotes from the famous Airforcepround 95. Use this bot to uplift and inspire your Discord community.
