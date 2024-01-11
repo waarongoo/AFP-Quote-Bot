@@ -21,7 +21,7 @@ const quotes = [
   "What kind of snacks do you have on board\npretzels and peanuts\ndo you have any cookies on board?\n.... yes\ndo you really?\ni cannot confirm nor deny cookies on board\nsir im going to have to ask you to remain grounded until we can confirm cookies on board\ncan we taxi back to the gate to load cookies?",
   "NO NO NO DO NOT START WITH THE BABY...\nAND NOW HE SHID UNBELIEVABLE",
   "GIMME THE F**KING PRETZELS",
-  "*PSHHHK*Ladies and gentlemen from the flight deck this is your captain speakin,\n some idiot just dropped his phone in the toilet and it's causing us to divert.\n To make matters worse it's not even an iPhone it's an Android.\n I truly could not be more disappointed in you people.*PSHHHK*",
+  "*PSHHHK* \nLadies and gentlemen from the flight deck this is your captain speakin,\n some idiot just dropped his phone in the toilet and it's causing us to divert.\n To make matters worse it's not even an iPhone it's an Android.\n I truly could not be more disappointed in you people.\n*PSHHHK*",
   "Hey what up sauce boss",,
   "Hey everyone, GroundPound69 here",
   "Hey everyone, BottleCruncher95 here",
