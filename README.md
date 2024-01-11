@@ -28,5 +28,6 @@ Welcome to the Airforcepround 95 Quote Discord Bot! This bot is designed to prov
 Use the bot file `index.js`, scroll down to the quotes , and edit them to your liking.
 
 ## Examples
-- Get a random quote:
+- Get a random quote: <br>
+  
 ![Example](Example.PNG)
