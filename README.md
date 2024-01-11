@@ -27,5 +27,4 @@ Use the bot file (index.js), scroll down to the quotes , and edit them to your l
 
 ## Examples
 - Get a random quote:
-- 
-![Captusadre](Captusadre_3.PNG)
+![Example](Example.PNG)
