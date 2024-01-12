@@ -90,7 +90,7 @@ client.on("interactionCreate", async (interaction) => {
       embeds: [
         {
           title: "AirForceProud95 Quotes",
-          description: randomQuote,
+          description: '"'+randomQuote+'"',
           color: 0x3498db,
           footer: {
             text: "Developed by ChatGPT as a Stress Test with too much human interaction",
