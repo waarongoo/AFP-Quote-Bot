@@ -4,10 +4,10 @@ NOTE: This an official AFP95 bot. This bot is fan-made. <br>
 NOTE 2:The bot was half-created using ChatGPT 3.5 to test how GPT is doing
 
 ## Introduction
-Welcome to the Airforcepround 95 Quote Discord Bot! This bot is designed to provide quotes from the famous Airforcepround 95. Use this bot to uplift and inspire your Discord community.
+Welcome to the AirForceProud 95 Quote Discord Bot! This bot is designed to provide quotes from the famous AirForceProud 95. Use this bot to uplift and inspire your Discord community.
 
 ## Features
-- Fetch quotes from Airforcepround 95
+- Fetch quotes from AirForceProud 95
 - A Simple and easy-to-use command
 
 
